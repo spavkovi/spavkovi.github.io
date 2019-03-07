@@ -1,0 +1,41 @@
+p.a {
+  font-family: Impact, Charcoal, sans-serif;
+}
+
+body {
+  font-family: "Courier New", Courier, monospace;
+  bgcolor="#FBF9FF"
+}
+
+
+/*Adding menu*/
+
+.topnav {
+  overflow:hidden;
+  background-color: #101F62
+}
+
+/*styling menu*/
+
+.topnav a {
+  float:left;
+  display: block;
+  color: #101F62;
+  text-align:center;
+  padding: 14px 16 px;
+  text-decoration:none;
+}
+
+.topnav a:last-child {
+  float: right;
+}
+
+/*Color Menu*/
+
+.topnav a:hover {
+  background-color: #0D1434;
+  color:white;
+}
+
+
+/* How to put the image to the left? */
